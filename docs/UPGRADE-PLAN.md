@@ -14,7 +14,7 @@ Compose UI is still a placeholder and the Android build is unverified locally.
 - P1: Load the project catalog from the portfolio site's JSON (or bundle a snapshot) and run `validate` in a unit test against it.
 - P1: Project detail screen with links opened via Custom Tabs.
 - P2: Compose UI tests (`androidx.compose.ui:ui-test-junit4`) for the main flow.
-- P2: Pin `distributionSha256Sum` in `gradle-wrapper.properties`.
+- ~~P2: Pin `distributionSha256Sum` in `gradle-wrapper.properties`.~~ Done 2026-10-22.
 
 ## Done in this pass (pass 1)
 
